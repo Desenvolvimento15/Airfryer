@@ -28,105 +28,41 @@
 .overview-con .f64 {font-size: 0.25rem;}
 .overview-con .f66 {font-size: 0.257813rem;}
 .overview-con .f68 {font-size: 0.265625rem;}
-.overview-con .f70 {
-  font-size: 0.273438rem;
-}
-.overview-con .f72 {
-  font-size: 0.28125rem;
-}
-.overview-con .f76 {
-  font-size: 0.296875rem;
-}
-.overview-con .f78 {
-  font-size: 0.304688rem;
-}
-.overview-con .f80 {
-  font-size: 0.3125rem;
-}
-.overview-con .f82 {
-  font-size: 0.320313rem;
-}
-.overview-con .f86 {
-  font-size: 0.335938rem;
-}
-.overview-con .f88 {
-  font-size: 0.34375rem;
-}
-.overview-con .f90 {
-  font-size: 0.351563rem;
-}
-.overview-con .f98 {
-  font-size: 0.382813rem;
-}
-.overview-con .f100 {
-  font-size: 0.390625rem;
-}
-.overview-con .f106 {
-  font-size: 0.414063rem;
-}
-.overview-con .f108 {
-  font-size: 0.421875rem;
-}
-.overview-con .f110 {
-  font-size: 0.429688rem;
-}
-.overview-con .f114 {
-  font-size: 0.445313rem;
-}
-.overview-con .f116 {
-  font-size: 0.453125rem;
-}
-.overview-con .f120 {
-  font-size: 0.46875rem;
-}
-.overview-con .f128 {
-  font-size: 0.5rem;
-}
-.overview-con .f130 {
-  font-size: 0.507813rem;
-}
-.overview-con .f138 {
-  font-size: 0.539063rem;
-}
-.overview-con .f140 {
-  font-size: 0.546875rem;
-}
-.overview-con .f148 {
-  font-size: 0.578125rem;
-}
-.overview-con .f150 {
-  font-size: 0.585938rem;
-}
-.overview-con .f160 {
-  font-size: 0.625rem;
-}
-.overview-con .f200 {
-  font-size: 0.78125rem;
-}
-.overview-con .c383026 {
-  color: #383026;
-}
-.overview-con .c010000 {
-  color: #010000;
-}
-.overview-con .c000000 {
-  color: #000;
-}
-.overview-con .cffffff {
-  color: #fff;
-}
-.overview-con .cf4f1ea {
-  color: #f4f1ea;
-}
-.overview-con .c4a4338 {
-  color: #4a4338;
-}
-.overview-con .c955822 {
-  color: #955822;
-}
-.overview-con .cc8c6c0 {
-  color: #c8c6c0;
-}
+.overview-con .f70 {font-size: 0.273438rem;}
+.overview-con .f72 {font-size: 0.28125rem;}
+.overview-con .f76 {font-size: 0.296875rem;}
+.overview-con .f78 {font-size: 0.304688rem;}
+.overview-con .f80 {font-size: 0.3125rem;}
+.overview-con .f82 {font-size: 0.320313rem;}
+.overview-con .f86 {font-size: 0.335938rem;}
+.overview-con .f88 {font-size: 0.34375rem;}
+.overview-con .f90 {font-size: 0.351563rem;}
+.overview-con .f98 {font-size: 0.382813rem;}
+.overview-con .f100 {font-size: 0.390625rem;}
+.overview-con .f106 {font-size: 0.414063rem;}
+.overview-con .f108 {font-size: 0.421875rem;}
+.overview-con .f110 {font-size: 0.429688rem;}
+.overview-con .f114 {font-size: 0.445313rem;}
+.overview-con .f116 {font-size: 0.453125rem;}
+.overview-con .f120 {font-size: 0.46875rem;}
+.overview-con .f128 {font-size: 0.5rem;}
+.overview-con .f130 {font-size: 0.507813rem;}
+.overview-con .f138 {font-size: 0.539063rem;}
+.overview-con .f140 {font-size: 0.546875rem;}
+.overview-con .f148 {font-size: 0.578125rem;}
+.overview-con .f150 {font-size: 0.585938rem;}
+.overview-con .f160 {font-size: 0.625rem;}
+.overview-con .f200 {font-size: 0.78125rem;}
+
+.overview-con .c383026 {color: #383026;}
+.overview-con .c010000 {color: #010000;}
+.overview-con .c000000 {color: #000;}
+.overview-con .cffffff {color: #fff;}
+.overview-con .cf4f1ea {color: #f4f1ea;}
+.overview-con .c4a4338 {color: #4a4338;}
+.overview-con .c955822 {color: #955822;}
+.overview-con .cc8c6c0 {color: #c8c6c0;}
+
 .overview-con .o5 {
   opacity: 0.5;
 }
@@ -557,7 +493,7 @@
   top: 3.242188rem;
 }
 .overview-con .section-13 .abs-text-2 {
-  top: 3.667969rem;
+  top: 3.57rem;
 }
 .overview-con .section-13 .abs-text-3 {
   top: 3.984375rem;
