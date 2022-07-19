@@ -123,6 +123,7 @@
 .hairlines .overview-con .section {
   margin-bottom: -0.5px;
 }
+
 .overview-con .section-01 {
   display: flex;
   flex-direction: column;
@@ -130,10 +131,12 @@
   padding: 1rem 0 0 1.550781rem;
   background-image: url('..//media/air-fryer_02.jpg');
 }
+
 .overview-con .section-01 .header-title {
   align-items: center;
   display: flex;
 }
+
 .overview-con .section-01 .size {
   border: 0.015625rem solid #383026;
   border-radius: 0.015625rem;
@@ -141,13 +144,16 @@
   margin-left: 0.15625rem;
   padding: 0.058594rem 0.097656rem 0.039063rem;
 }
+
 .overview-con .section-01 .f30,
 .overview-con .section-01 .sub-title {
   margin-top: 0.15625rem;
 }
+
 .overview-con .section-01 .price {
   margin-top: 0.195313rem;
 }
+
 .overview-con .section-02 {
   background-color: #efeae1;
   padding: 0.410156rem 0.8125rem 0.417969rem;
@@ -600,13 +606,12 @@ main {
   font-size: 16px;
 }
 
-/*Mobile */
+/****************************  *Mobile*  *************************/
 
 @media screen and (max-width: 1000px){
 
   *{margin:0; padding: 0;}
   .overview-con{overflow: hidden;}
-
   .overview-con .section-01{
     background-image: url('../media/01_01.jpg');
     width:100%;
