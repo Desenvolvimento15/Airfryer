@@ -608,29 +608,23 @@ main {
 
 /****************************  *Mobile*  *************************/
 
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 900px){
   
-  .overview-con{
-    overflow: hidden;
-    display: none;
-  }
- 
-  .overview-con .mobile{
+  main{
     width: 100%;
-    background-image: url(../media/mob_01.jpg);
+    margin: auto;
+    overflow: hidden;
   }
-  
 
+  .overview-con .section-01{
+  background-image: url('../media/01_01.jpg');
+  }
 
-
-
-
-
-
-
-
-
-
+  .overview-con .f88 {
+    font-size: 0.34375rem;
+    text-align: center;
+    width: 4.6rem;
+  }
 
 
 
