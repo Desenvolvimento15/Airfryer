@@ -609,11 +609,34 @@ main {
 /****************************  *Mobile*  *************************/
 
 @media screen and (max-width: 1000px){
-
-  *{margin:0; padding: 0;}
-  .overview-con{overflow: hidden;}
-  .overview-con .section-01{
-    background-image: url('../media/01_01.jpg');
-    width:100%;
+  
+  .overview-con{
+    overflow: hidden;
+    display: none;
   }
+ 
+  .overview-con .mobile{
+    width: 100%;
+    background-image: url(../media/mob_01.jpg);
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
